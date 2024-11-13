@@ -1,0 +1,40 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# Ignorar archivos de bases de datos comunes
+*.sqlite
+*.sqlite3
+*.db
+
+# Ignorar backups de bases de datos
+*.sql
+*.bak
+
+# Ignorar archivos de configuración sensibles
+*.env
+config.yml
+config.json
+
+# Ignorar archivos de caché y temporales
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+
+# Ignorar carpetas de entornos virtuales de Python
+venv/
+env/
+.venv/
+.env/
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
